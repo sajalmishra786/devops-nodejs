@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 terraform_code/ec2_server/.terraform/
 terraform_code/eks_code/.terraform/
+.terraform/
